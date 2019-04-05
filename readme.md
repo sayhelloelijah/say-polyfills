@@ -3,7 +3,7 @@ This is a small collection of JavaScript polyfills for cross-browser support. Th
 
 ## Table of Contents
 - [Array.from](array-from.js)
-- [Array.indexOF, Array.remove, Array.diff](array-indexof-remove-diff.js)
+- [Array.indexOf, Array.remove, Array.diff](array-indexof-remove-diff.js)
 - [Element.classList](classList.js)
 - [Element.closest](closest.js)
 - [String.includes](includes.js)
